@@ -1,4 +1,4 @@
-# Resolve Multi Region
+# Serverless DNS Resolver
 
 ## Example
 
